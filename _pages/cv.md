@@ -25,11 +25,11 @@ Certifications
 Experience
 ======
 Site Reliability
-* Management of employees, tasks, projects and day-to-day Private Cloud IT operations
-* Lead on major escalations and incidents in the Virtualization plant
-* Implemented automated processes to improve efficiency and reliability
-  * Adopted Ansible within IT operations and deployed playbooks to reduce TOIL
-  * Created Splunk Dashboards used for troubleshooting issues and providing visibility to the different siloed programs and senior management
+- Management of employees, tasks, projects and day-to-day Private Cloud IT operations
+- Lead on major escalations and incidents in the Virtualization plant
+- Implemented automated processes to improve efficiency and reliability
+  - Adopted Ansible within IT operations and deployed playbooks to reduce TOIL
+  - Created Splunk Dashboards used for troubleshooting issues and providing visibility to the different siloed programs and senior management
 * Implement security measures to protect against cyber threats
   * Lead in reviewing and implementing IAM within the Virtualization Operations space. Scoped out the necessary entitlements to administer the Virtual infrastructure Privileged Access Management Environment
   * Server hardening of ESXi Hypervisors and deployment of vAppliances (Proxy,DLP,AV)
