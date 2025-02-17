@@ -1,15 +1,17 @@
---
+
+---
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv/
-
+  - /resume
 ---
 
-# Site Reliability Engineer.
+{% include base_path %}
 
+# Site Reliability Engineer.
+======
 ## Technical Skills
 Cloud, Virtualization, Ansible, Automation, Cyber Security
 
