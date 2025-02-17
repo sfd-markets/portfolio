@@ -20,10 +20,10 @@ main:
   #  - title: "Blog Posts"
   #    url: /year-archive/
   #    
-  - title: "CV"
-    url: /cv/cv.md
-  #  - title: "CV"
-  #  url: /files/cv.pdf
+  # title: "CV"
+  #  url: /cv/cv.md
+    - title: "CV"
+    url: /files/cv.pdf
   #    
   #  - title: "Guide"
   #    url: /markdown/
