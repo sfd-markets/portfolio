@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: single
 title: "Carlos Homepage"
 author_profile: true
 redirect_from: 
