@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Cybersecurity Blog"
 permalink: /cybersecurity/
 author_profile: true

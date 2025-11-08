@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Cloud-Native Blog"
 permalink: /cloud-native/
 author_profile: true
