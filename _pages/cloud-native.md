@@ -11,5 +11,5 @@ This page will feature blog posts related to Cloud-Native technologies.
 
 {% assign posts = site.posts | where: "categories", "Cloud-Native" %}
 {% for post in posts %}
-  {% comment %}{% include archive-single.html %}{% endcomment %}
+  {% include archive-single.html %}
 {% endfor %}
