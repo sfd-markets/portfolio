@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "IT Infrastructure & SRE"
 permalink: /it-infrastructure/
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Cybersecurity"
 permalink: /cybersecurity/
 author_profile: true
