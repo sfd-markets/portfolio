@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Carlos L."
+title                    : "Carlos L. - SRE & Cybersecurity Professional"
 title_separator          : "-"
 name                     : &name "Carlos L."
-description              : &description "About Me"
+description              : &description "Professional portfolio showcasing IT infrastructure, SRE, and cybersecurity expertise"
 url                      : https://sfd-markets.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "/portfolio" # the subpath of your site, e.g. "/blog"
 repository: "sfd-markets/portfolio"
@@ -25,7 +25,7 @@ author:
   avatar           : "me.png"
   name             : "Carlos L."
   pronouns         : # example: "she/her"  
-  bio              : "SRE & Cyber Security Research"
+  bio              : "Site Reliability Engineer & Cybersecurity Professional"
   location         : "Canada"
   employer         : #"Red Brick University"
   uri              : # URL

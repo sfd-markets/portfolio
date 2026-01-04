@@ -6,8 +6,15 @@
 
 main:
 
-  - title: "Cybersecurity Blog"
+  - title: "About"
+    url: /
+  
+  - title: "IT Infrastructure & SRE"
+    url: /it-infrastructure/
+  
+  - title: "Cybersecurity"
     url: /cybersecurity/
-  - title: "Cloud-Native Blog"
-    url: /cloud-native/
+  
+  - title: "Skills & Certifications"
+    url: /skills/
 
